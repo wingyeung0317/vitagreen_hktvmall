@@ -1,3 +1,5 @@
+CREATE SCHEMA "vitagreen";
+
 CREATE TABLE "vitagreen"."Products" (
     "index" int,
     "product_name" text,
