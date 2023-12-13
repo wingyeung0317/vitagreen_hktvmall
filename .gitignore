@@ -1,9 +1,4 @@
 # constrant.py
 __pycache__
-comment.csv
-comment_transformed.csv
-products.csv
-productDF_transformed.csv
-keywords.csv
-vitagreen-*
+.ignore
 venv
